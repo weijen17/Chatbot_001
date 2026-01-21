@@ -5,7 +5,7 @@
 ## Features
 
 - **Chitchat**: Chat.
-- **Document Retrieval**: LLM perform document searches based on user queries. If central subject or key entity is found (e.g., brand names, product names), will auto search for other nicknames of these entities, and to be used as filters to increase retrieval precision.
+- **Document Retrieval**: Perform document searches based on user queries. If central subject or key entity is found (e.g., brand names, product names), will auto search for other nicknames of these entities, and to be used as filters to increase retrieval precision.
 - **Web Search**: Perform web search using Tavily based on user queries.
 
 *** Only these three intents will be recognized.
